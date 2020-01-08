@@ -5,6 +5,18 @@
 }
 
 img {
-  height: 200px;
-  width: 400px;
+  height: 120px;
+  width: 250px;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.gold {
+  background-color: gold;
 }
